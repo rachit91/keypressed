@@ -1,0 +1,27 @@
+/* =====
+CUSTOM STYLES
+======== */
+
+body {
+	margin: 0px;
+}
+
+#main-wrapper {
+	height: 100vh;
+	width: 100%;
+
+	display: flex;
+	justify-content:center;
+	align-items:center;
+
+	background-color: #66BB6A;
+}
+
+.content{
+	margin-left: 30px;
+	margin-right: 30px;
+
+	color: #fff;
+	font-size: 2.5em;
+	font-family: "Roboto", "Helvetica";
+}
